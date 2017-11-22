@@ -1,0 +1,2 @@
+curl -X POST -H 'Content-type: application/json' --data @slackmessage.json $SLACK_URL
+
